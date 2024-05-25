@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-mergeDebugResources-56:/layout/activity_upload.xml",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/layout/activity_upload.xml"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-mergeDebugResources-56:/layout/activity_maps.xml",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/layout/activity_maps.xml"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-mergeDebugResources-56:/layout/activity_detail.xml",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-mergeDebugResources-56:/layout/activity_splash.xml",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-mergeDebugResources-56:/layout/activity_welcome.xml",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-mergeDebugResources-56:/layout/activity_signup.xml",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-mergeDebugResources-56:/layout/loading.xml",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/layout/loading.xml"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-mergeDebugResources-56:/layout/activity_login.xml",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-mergeDebugResources-56:/layout/item_list.xml",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/layout/item_list.xml"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-mergeDebugResources-56:/layout/activity_main.xml",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/layout/activity_main.xml"
+    }
+]

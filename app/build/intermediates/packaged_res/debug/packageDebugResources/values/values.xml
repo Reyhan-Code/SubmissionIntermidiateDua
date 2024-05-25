@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="navy">#2D3D4F</color>
+    <color name="toolbar_color">#FF6535</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="add_image">add image</string>
+    <string name="app_name">StoryApp</string>
+    <string name="by_reyhan_afif_fahri">By Reyhan Afif Fahri</string>
+    <string name="camera">Camera</string>
+    <string name="change_language">Change language</string>
+    <string name="description">Description</string>
+    <string name="email">Email</string>
+    <string name="empty_image_warning">404 Image Not Found</string>
+    <string name="gallery">Gallery</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="login">Login</string>
+    <string name="logout">Log Out</string>
+    <string name="message_login_page">Enter your data first!</string>
+    <string name="message_main_page">Welcome To Dicoding.</string>
+    <string name="message_welcome_page">Want to learn Android, iOS, Machine Learning, Cloud, Front-End, Back-End, and other IT fields? Just code it!</string>
+    <string name="name">Name</string>
+    <string name="normal_type">Normal</string>
+    <string name="password">Password</string>
+    <string name="password_custom">The password must not be less than 8 characters</string>
+    <string name="retry">refresh</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="signup">Sing Up</string>
+    <string name="story_upload">Upload Story</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_login_page">Are you ready to upgrade your skills?</string>
+    <string name="title_signup_page">Complete your data below</string>
+    <string name="title_welcome_page">Welcome to Dicoding!</string>
+    <string name="tombol_logout">Logout</string>
+    <string name="upload">Upload</string>
+    <string name="upload_failed">Upload Failed</string>
+    <string name="upload_success">Upload Succes</string>
+    <style name="Base.Theme.SubIntermidiateSatu" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="ShapeAppearance.Rounded" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">24dp</item>
+    </style>
+    <style name="ShapeAppearanceOverlay.Rounded" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">24dp</item>
+    </style>
+    <style name="Theme.SubIntermidiateSatu" parent="Base.Theme.SubIntermidiateSatu"/>
+</resources>

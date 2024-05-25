@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.dicoding.subintermidiatesatu.app-mergeDebugResources-55:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\REYHAN AFIF FAHRI\\.gradle\\caches\\transforms-3\\9da7387b7c56f9a773e0508524a8fae9\\transformed\\appcompat-1.6.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

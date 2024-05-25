@@ -1,0 +1,6 @@
+com.dicoding.subintermidiatesatu.test.app-annotation-experimental-1.4.0-0 C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\562926b915391d9c04ecbd3c0474a72b\transformed\annotation-experimental-1.4.0\res
+com.dicoding.subintermidiatesatu.test.app-core-1.5.0-1 C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\a86a9043766e2b0dbdc8d281521b4992\transformed\core-1.5.0\res
+com.dicoding.subintermidiatesatu.test.app-androidTest-2 D:\dicoding\SubIntermidiateTiga\app\build\generated\res\resValues\androidTest\debug
+com.dicoding.subintermidiatesatu.test.app-mergeDebugAndroidTestResources-3 D:\dicoding\SubIntermidiateTiga\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.dicoding.subintermidiatesatu.test.app-mergeDebugAndroidTestResources-4 D:\dicoding\SubIntermidiateTiga\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.dicoding.subintermidiatesatu.test.app-debugAndroidTest-5 D:\dicoding\SubIntermidiateTiga\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

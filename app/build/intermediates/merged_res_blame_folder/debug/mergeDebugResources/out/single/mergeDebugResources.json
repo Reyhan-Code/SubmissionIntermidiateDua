@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/drawable_ic_bg.jpg.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/drawable/ic_bg.jpg"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/raw_map_style.json.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/raw/map_style.json"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/drawable_image_welcome.webp.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/drawable/image_welcome.webp"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/xml_backup_rules.xml.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/drawable_ic_baseline_person_24.xml.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/drawable/ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/drawable_ic_upload.xml.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/drawable/ic_upload.xml"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/layout_activity_signup.xml.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/xml_data_extraction_rules.xml.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/menu_map_options.xml.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/menu/map_options.xml"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/drawable_ic_baseline_lock_24.xml.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/drawable/ic_baseline_lock_24.xml"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/drawable_image_signup.webp.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/drawable/image_signup.webp"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/layout_activity_main.xml.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/drawable_ic_icon.png.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/drawable/ic_icon.png"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/layout_loading.xml.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/layout/loading.xml"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/layout_activity_upload.xml.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/layout/activity_upload.xml"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/layout_activity_welcome.xml.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/drawable_ic_image.xml.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/drawable/ic_image.xml"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/layout_item_list.xml.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/layout/item_list.xml"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/drawable_ic_location.xml.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/drawable/ic_location.xml"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/menu_item_menu.xml.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/menu/item_menu.xml"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/layout_activity_maps.xml.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/layout/activity_maps.xml"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/layout_activity_detail.xml.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/layout_activity_splash.xml.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/layout_activity_login.xml.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-pngs-53:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/drawable_image_dicoding.webp.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/drawable/image_dicoding.webp"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/drawable_ic_baseline_email_24.xml.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/drawable/ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/drawable_ic_map.xml.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/drawable/ic_map.xml"
+    },
+    {
+        "merged": "com.dicoding.subintermidiatesatu.app-debug-57:/drawable_image_login.webp.flat",
+        "source": "com.dicoding.subintermidiatesatu.app-main-59:/drawable/image_login.webp"
+    }
+]

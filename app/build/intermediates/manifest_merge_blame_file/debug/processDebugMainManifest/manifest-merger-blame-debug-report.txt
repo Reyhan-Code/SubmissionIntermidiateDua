@@ -1,0 +1,276 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.dicoding.subintermidiatesatu"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:5:5-67
+11-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <uses-feature android:name="android.hardware.camera" />
+13-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:7:5-60
+13-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:7:19-57
+14
+15    <uses-permission android:name="android.permission.CAMERA" />
+15-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:9:5-65
+15-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:9:22-62
+16    <uses-permission
+16-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:10:5-12:38
+17        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+17-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:11:9-65
+18        android:maxSdkVersion="28" />
+18-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:12:9-35
+19    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+19-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:14:5-79
+19-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:14:22-76
+20    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+20-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:15:5-80
+20-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:15:22-78
+21
+22    <!-- Include required permissions for Google Maps API to run. -->
+23    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+23-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\d8772cc9a4ba35c57c10bd5ec3d15f84\transformed\play-services-maps-18.2.0\AndroidManifest.xml:23:5-79
+23-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\d8772cc9a4ba35c57c10bd5ec3d15f84\transformed\play-services-maps-18.2.0\AndroidManifest.xml:23:22-76
+24
+25    <uses-feature
+25-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\d8772cc9a4ba35c57c10bd5ec3d15f84\transformed\play-services-maps-18.2.0\AndroidManifest.xml:26:5-28:35
+26        android:glEsVersion="0x00020000"
+26-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\d8772cc9a4ba35c57c10bd5ec3d15f84\transformed\play-services-maps-18.2.0\AndroidManifest.xml:27:9-41
+27        android:required="true" />
+27-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\d8772cc9a4ba35c57c10bd5ec3d15f84\transformed\play-services-maps-18.2.0\AndroidManifest.xml:28:9-32
+28
+29    <queries>
+29-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\d8772cc9a4ba35c57c10bd5ec3d15f84\transformed\play-services-maps-18.2.0\AndroidManifest.xml:30:5-34:15
+30
+31        <!-- Needs to be explicitly declared on Android R+ -->
+32        <package android:name="com.google.android.apps.maps" />
+32-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\d8772cc9a4ba35c57c10bd5ec3d15f84\transformed\play-services-maps-18.2.0\AndroidManifest.xml:33:9-64
+32-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\d8772cc9a4ba35c57c10bd5ec3d15f84\transformed\play-services-maps-18.2.0\AndroidManifest.xml:33:18-61
+33    </queries>
+34
+35    <permission
+35-->[androidx.core:core:1.13.1] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\7e2911b89fd95a9288eeb29802e4c047\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+36        android:name="com.dicoding.subintermidiatesatu.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+36-->[androidx.core:core:1.13.1] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\7e2911b89fd95a9288eeb29802e4c047\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+37        android:protectionLevel="signature" />
+37-->[androidx.core:core:1.13.1] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\7e2911b89fd95a9288eeb29802e4c047\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+38
+39    <uses-permission android:name="com.dicoding.subintermidiatesatu.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+39-->[androidx.core:core:1.13.1] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\7e2911b89fd95a9288eeb29802e4c047\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+39-->[androidx.core:core:1.13.1] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\7e2911b89fd95a9288eeb29802e4c047\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+40
+41    <application
+41-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:17:5-63:19
+42        android:allowBackup="true"
+42-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:18:9-35
+43        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+43-->[androidx.core:core:1.13.1] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\7e2911b89fd95a9288eeb29802e4c047\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+44        android:dataExtractionRules="@xml/data_extraction_rules"
+44-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:19:9-65
+45        android:debuggable="true"
+46        android:extractNativeLibs="true"
+47        android:fullBackupContent="@xml/backup_rules"
+47-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:20:9-54
+48        android:icon="@mipmap/ic_launcher"
+48-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:21:9-43
+49        android:label="@string/app_name"
+49-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:22:9-41
+50        android:roundIcon="@mipmap/ic_launcher_round"
+50-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:23:9-54
+51        android:supportsRtl="true"
+51-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:24:9-35
+52        android:testOnly="true"
+53        android:theme="@style/Theme.SubIntermidiateSatu" >
+53-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:25:9-57
+54        <meta-data
+54-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:28:9-30:71
+55            android:name="com.google.android.geo.API_KEY"
+55-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:29:13-58
+56            android:value="AIzaSyBVKhiO38-e9G5jK85GeH1QAe_5yvu9j5I" />
+56-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:30:13-68
+57
+58        <activity
+58-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:32:9-35:59
+59            android:name="com.dicoding.subintermidiatesatu.view.maps.MapsActivity"
+59-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:33:13-51
+60            android:exported="false"
+60-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:34:13-37
+61            android:label="@string/title_activity_maps" />
+61-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:35:13-56
+62        <activity
+62-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:36:9-38:40
+63            android:name="com.dicoding.subintermidiatesatu.view.main.MainActivity"
+63-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:37:13-51
+64            android:exported="false" />
+64-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:38:13-37
+65        <activity
+65-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:39:9-41:40
+66            android:name="com.dicoding.subintermidiatesatu.view.detail.DetailActivity"
+66-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:40:13-55
+67            android:exported="false" />
+67-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:41:13-37
+68        <activity
+68-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:42:9-44:40
+69            android:name="com.dicoding.subintermidiatesatu.view.upload.UploadActivity"
+69-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:43:13-55
+70            android:exported="false" />
+70-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:44:13-37
+71        <activity
+71-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:45:9-47:40
+72            android:name="com.dicoding.subintermidiatesatu.view.welcome.WelcomeActivity"
+72-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:46:13-57
+73            android:exported="false" />
+73-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:47:13-37
+74        <activity
+74-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:48:9-50:40
+75            android:name="com.dicoding.subintermidiatesatu.view.signup.SignupActivity"
+75-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:49:13-55
+76            android:exported="false" />
+76-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:50:13-37
+77        <activity
+77-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:51:9-53:40
+78            android:name="com.dicoding.subintermidiatesatu.view.login.LoginActivity"
+78-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:52:13-53
+79            android:exported="false" />
+79-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:53:13-37
+80        <activity
+80-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:54:9-62:20
+81            android:name="com.dicoding.subintermidiatesatu.splash.SplashActivity"
+81-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:55:13-50
+82            android:exported="true" >
+82-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:56:13-36
+83            <intent-filter>
+83-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:57:13-61:29
+84                <action android:name="android.intent.action.MAIN" />
+84-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:58:17-69
+84-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:58:25-66
+85
+86                <category android:name="android.intent.category.LAUNCHER" />
+86-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:60:17-77
+86-->D:\dicoding\SubIntermidiateTiga\app\src\main\AndroidManifest.xml:60:27-74
+87            </intent-filter>
+88        </activity>
+89
+90        <service
+90-->[androidx.room:room-runtime:2.6.1] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\c7a97da7ef279dbe790af4a748222c35\transformed\room-runtime-2.6.1\AndroidManifest.xml:24:9-28:63
+91            android:name="androidx.room.MultiInstanceInvalidationService"
+91-->[androidx.room:room-runtime:2.6.1] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\c7a97da7ef279dbe790af4a748222c35\transformed\room-runtime-2.6.1\AndroidManifest.xml:25:13-74
+92            android:directBootAware="true"
+92-->[androidx.room:room-runtime:2.6.1] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\c7a97da7ef279dbe790af4a748222c35\transformed\room-runtime-2.6.1\AndroidManifest.xml:26:13-43
+93            android:exported="false" />
+93-->[androidx.room:room-runtime:2.6.1] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\c7a97da7ef279dbe790af4a748222c35\transformed\room-runtime-2.6.1\AndroidManifest.xml:27:13-37
+94        <!--
+95        Service for holding metadata. Cannot be instantiated.
+96        Metadata will be merged from other manifests.
+97        -->
+98        <service
+98-->[androidx.camera:camera-core:1.3.3] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\70e74c104c810a3a5a54cd7a92a14bbe\transformed\camera-core-1.3.3\AndroidManifest.xml:29:9-33:78
+99            android:name="androidx.camera.core.impl.MetadataHolderService"
+99-->[androidx.camera:camera-core:1.3.3] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\70e74c104c810a3a5a54cd7a92a14bbe\transformed\camera-core-1.3.3\AndroidManifest.xml:30:13-75
+100            android:enabled="false"
+100-->[androidx.camera:camera-core:1.3.3] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\70e74c104c810a3a5a54cd7a92a14bbe\transformed\camera-core-1.3.3\AndroidManifest.xml:31:13-36
+101            android:exported="false" >
+101-->[androidx.camera:camera-core:1.3.3] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\70e74c104c810a3a5a54cd7a92a14bbe\transformed\camera-core-1.3.3\AndroidManifest.xml:32:13-37
+102            <meta-data
+102-->[androidx.camera:camera-camera2:1.3.3] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\5a4a2a3f29b0dc02d7da0187541dcf5c\transformed\camera-camera2-1.3.3\AndroidManifest.xml:30:13-32:89
+103                android:name="androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER"
+103-->[androidx.camera:camera-camera2:1.3.3] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\5a4a2a3f29b0dc02d7da0187541dcf5c\transformed\camera-camera2-1.3.3\AndroidManifest.xml:31:17-103
+104                android:value="androidx.camera.camera2.Camera2Config$DefaultProvider" />
+104-->[androidx.camera:camera-camera2:1.3.3] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\5a4a2a3f29b0dc02d7da0187541dcf5c\transformed\camera-camera2-1.3.3\AndroidManifest.xml:32:17-86
+105        </service> <!-- Needs to be explicitly declared on P+ -->
+106        <uses-library
+106-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\d8772cc9a4ba35c57c10bd5ec3d15f84\transformed\play-services-maps-18.2.0\AndroidManifest.xml:39:9-41:40
+107            android:name="org.apache.http.legacy"
+107-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\d8772cc9a4ba35c57c10bd5ec3d15f84\transformed\play-services-maps-18.2.0\AndroidManifest.xml:40:13-50
+108            android:required="false" />
+108-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\d8772cc9a4ba35c57c10bd5ec3d15f84\transformed\play-services-maps-18.2.0\AndroidManifest.xml:41:13-37
+109
+110        <activity
+110-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\ef42fb268aae2989099e7e016bcc2a70\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+111            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+111-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\ef42fb268aae2989099e7e016bcc2a70\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+112            android:exported="false"
+112-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\ef42fb268aae2989099e7e016bcc2a70\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+113            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+113-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\ef42fb268aae2989099e7e016bcc2a70\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+114
+115        <meta-data
+115-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\9c2457ab35cfb2661798e278aaf97333\transformed\play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+116            android:name="com.google.android.gms.version"
+116-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\9c2457ab35cfb2661798e278aaf97333\transformed\play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+117            android:value="@integer/google_play_services_version" />
+117-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\9c2457ab35cfb2661798e278aaf97333\transformed\play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+118
+119        <provider
+119-->[androidx.emoji2:emoji2:1.2.0] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\7dd78d9e4ed446952c34e148e5404d20\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+120            android:name="androidx.startup.InitializationProvider"
+120-->[androidx.emoji2:emoji2:1.2.0] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\7dd78d9e4ed446952c34e148e5404d20\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+121            android:authorities="com.dicoding.subintermidiatesatu.androidx-startup"
+121-->[androidx.emoji2:emoji2:1.2.0] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\7dd78d9e4ed446952c34e148e5404d20\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+122            android:exported="false" >
+122-->[androidx.emoji2:emoji2:1.2.0] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\7dd78d9e4ed446952c34e148e5404d20\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+123            <meta-data
+123-->[androidx.emoji2:emoji2:1.2.0] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\7dd78d9e4ed446952c34e148e5404d20\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+124                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+124-->[androidx.emoji2:emoji2:1.2.0] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\7dd78d9e4ed446952c34e148e5404d20\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+125                android:value="androidx.startup" />
+125-->[androidx.emoji2:emoji2:1.2.0] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\7dd78d9e4ed446952c34e148e5404d20\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+126            <meta-data
+126-->[androidx.lifecycle:lifecycle-process:2.8.0] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\ca385adbaa6484406ad2d2e3ef6a55b7\transformed\lifecycle-process-2.8.0\AndroidManifest.xml:29:13-31:52
+127                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+127-->[androidx.lifecycle:lifecycle-process:2.8.0] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\ca385adbaa6484406ad2d2e3ef6a55b7\transformed\lifecycle-process-2.8.0\AndroidManifest.xml:30:17-78
+128                android:value="androidx.startup" />
+128-->[androidx.lifecycle:lifecycle-process:2.8.0] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\ca385adbaa6484406ad2d2e3ef6a55b7\transformed\lifecycle-process-2.8.0\AndroidManifest.xml:31:17-49
+129            <meta-data
+129-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\f8624e888360ed12ed1cbf75a98fc5c2\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+130                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+130-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\f8624e888360ed12ed1cbf75a98fc5c2\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+131                android:value="androidx.startup" />
+131-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\f8624e888360ed12ed1cbf75a98fc5c2\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+132        </provider>
+133
+134        <receiver
+134-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\f8624e888360ed12ed1cbf75a98fc5c2\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+135            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+135-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\f8624e888360ed12ed1cbf75a98fc5c2\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+136            android:directBootAware="false"
+136-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\f8624e888360ed12ed1cbf75a98fc5c2\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+137            android:enabled="true"
+137-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\f8624e888360ed12ed1cbf75a98fc5c2\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+138            android:exported="true"
+138-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\f8624e888360ed12ed1cbf75a98fc5c2\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+139            android:permission="android.permission.DUMP" >
+139-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\f8624e888360ed12ed1cbf75a98fc5c2\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+140            <intent-filter>
+140-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\f8624e888360ed12ed1cbf75a98fc5c2\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+141                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+141-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\f8624e888360ed12ed1cbf75a98fc5c2\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+141-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\f8624e888360ed12ed1cbf75a98fc5c2\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+142            </intent-filter>
+143            <intent-filter>
+143-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\f8624e888360ed12ed1cbf75a98fc5c2\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+144                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+144-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\f8624e888360ed12ed1cbf75a98fc5c2\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+144-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\f8624e888360ed12ed1cbf75a98fc5c2\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+145            </intent-filter>
+146            <intent-filter>
+146-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\f8624e888360ed12ed1cbf75a98fc5c2\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+147                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+147-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\f8624e888360ed12ed1cbf75a98fc5c2\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+147-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\f8624e888360ed12ed1cbf75a98fc5c2\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+148            </intent-filter>
+149            <intent-filter>
+149-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\f8624e888360ed12ed1cbf75a98fc5c2\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+150                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+150-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\f8624e888360ed12ed1cbf75a98fc5c2\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+150-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\REYHAN AFIF FAHRI\.gradle\caches\transforms-3\f8624e888360ed12ed1cbf75a98fc5c2\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+151            </intent-filter>
+152        </receiver>
+153    </application>
+154
+155</manifest>
